@@ -6,7 +6,7 @@ Digging behaviour
 ![](digging.gif)
 
 Searching behaviour 
-![](searching.gif.gif)
+![](searching.gif)
 
 Stretching behaviour
 ![](stretching.gif)
