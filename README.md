@@ -5,8 +5,10 @@ This repro provides videos of cattle feeding at a feed trough, whilst paying spe
 Digging behaviour
 ![](digging.gif)
 
+
 Searching behaviour 
 ![](searching.gif)
+
 
 Stretching behaviour
 ![](stretching.gif)
